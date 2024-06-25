@@ -41,7 +41,7 @@ Author: Akshay Nandwana
 <br><br>
 
 ## License 📜
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
 
 ## Show Your Support 💖
 Give a ⭐️ if this project helped you!
