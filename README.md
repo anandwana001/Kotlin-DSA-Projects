@@ -7,8 +7,8 @@
 
 Welcome to Kotlin-DSA-Projects! This repository is your go-to resource for exploring a variety of projects crafted in Kotlin, all centered around the intriguing world of Data Structures and Algorithms (DSA). Whether you're a beginner eager to learn or an advanced developer sharpening your skills, these projects will help you understand the complexities of algorithms and data structures in a hands-on way.
 
-## What's Inside? 🧐
-This repository contains multiple projects, each dedicated to a specific algorithm or data structure implemented in Kotlin. From sorting algorithms like QuickSort and MergeSort to data structures like Trees and Graphs, this repository is packed with practical examples to help you learn Kotlin and DSA in tandem.
+## From where it start?
+I did a [LinkedIn post](https://www.linkedin.com/posts/anandwana001_kotlin-android-androiddev-activity-7210854160999632896-WvdM) about a list of Kotlin DSA Projects and got a idea to create project specific GitHub repository
 
 ## Projects 📱
 
