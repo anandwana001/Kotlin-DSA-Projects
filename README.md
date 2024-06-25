@@ -1,67 +1,60 @@
+# Kotlin-DSA-Projects 🚀
+
 <p align="center">
 <img src="/art/poster.webp"/>
 </p>
 
 
-<p>
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-</p>
+Welcome to Kotlin-DSA-Projects! This repository is your go-to resource for exploring a variety of projects crafted in Kotlin, all centered around the intriguing world of Data Structures and Algorithms (DSA). Whether you're a beginner eager to learn or an advanced developer sharpening your skills, these projects will help you understand the complexities of algorithms and data structures in a hands-on way.
 
+## What's Inside? 🧐
+This repository contains multiple projects, each dedicated to a specific algorithm or data structure implemented in Kotlin. From sorting algorithms like QuickSort and MergeSort to data structures like Trees and Graphs, this repository is packed with practical examples to help you learn Kotlin and DSA in tandem.
 
 ## Projects 📱
 
 1. [Tic-Tac-Toe](https://github.com/anandwana001/Kotlin-DSA-Projects/tree/main/src/ticTacToe)
 <img src="/art/tictactoe.jpeg"  />
 
-- Time Complexity:
-    - Minimax Algorithm: The complexity of Minimax in this implementation is \(O(9!)\) in the worst case due to the exhaustive nature of the algorithm, but it is optimized with the depth consideration.
-    - Move Validations and Updates: Each move validation and update are \(O(1)\), making them highly efficient.
-    - Win Condition Check: Each win check is \(O(1)\) for rows, columns, and diagonals.
-
-- Space Complexity:
-    - Board Representation: The 3x3 board uses a fixed amount of space \(O(1)\).
-    - Minimax Recursion: Depth of the recursion is limited by the number of empty cells, leading to a space complexity of \(O(9)\).
-
-- Data Structures:
-    - 2D Array (`Array<CharArray>`): Efficiently represents the Tic-Tac-Toe board.
-    - Primitive Counter (`emptyCells`): Keeps track of the number of empty cells on the board, optimizing the check for a full board.
-
-- Algorithms:
-    - Minimax Algorithm: Implements the Minimax algorithm for the AI player, considering depth to optimize decisions based on potential future moves. This ensures that the AI plays optimally.
-    - Game Loop: Efficiently manages the game's progression.
-    - Input Validation: Ensures valid player moves while handling invalid input gracefully.
-    - Move Making: Updates the board state and decrements the `emptyCells` counter.
-    - Win Condition Checking: Determines if a player has won by checking rows, columns, and diagonals.
-    - Board Full Check: Optimized by using the `emptyCells` counter, reducing the need for repeated full-board scans.
-    - Player Switching: Alternates player turns efficiently.
-
 
 ... More Projects coming soon
 
 
+## How to Use This Repository 🛠
+1. Clone the repository:
+```bash
+git clone https://github.com/anandwana001/Kotlin-DSA-Projects.git
+```
+
+2. Install IntelliJ IDEA [Step-by-Step Install](https://www.youtube.com/watch?v=8uX3qElf2Go&list=PL7ywuNFAyP-34f2XBjCQjH4UThtE13xh_)
+
+3. Navigate to each project to see individual READMEs for more details on running and understanding each project.
+
+4. Explore the code
+
 
 ## Credits
 Author: Akshay Nandwana
-
 
 <a href="https://www.linkedin.com/in/anandwana001/">
   <img align="left" alt="Akshay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br><br>
 
+## License 📜
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Looking for 1:1 Sessions? [Click Here](https://topmate.io/anandwana001)
+## Show Your Support 💖
+Give a ⭐️ if this project helped you!
 
-## Looking for a Long Term Mentor [Click Here](https://www.preplaced.in/profile/akshay-nandwana)
+## Resource / Learning
 
-## 14-Week Android Engineering Roadmap [Download PDF Here](https://topmate.io/anandwana001/1036233)
+| Description                       | Link                                                         |
+|-----------------------------------|--------------------------------------------------------------|
+| **Looking for 1:1 Sessions?**         | [Click Here](https://topmate.io/anandwana001)                |
+| **Looking for a Long Term Mentor**    | [Click Here](https://www.preplaced.in/profile/akshay-nandwana) |
+| **14-Week Android Engineering Roadmap** | [Download PDF Here](https://topmate.io/anandwana001/1036233) |
+| **Top 169 DSA Questions**            | [Download PDF Here](https://topmate.io/anandwana001/1022452) |
 
-## Top 169 DSA Questions [Download PDF Here](https://topmate.io/anandwana001/1022452)
 
-## License
-
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
 
   
