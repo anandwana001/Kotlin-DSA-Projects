@@ -11,7 +11,7 @@
 ## Projects 📱
 
 1. [Tic-Tac-Toe](https://github.com/anandwana001/Kotlin-DSA-Projects/tree/main/src/ticTacToe)
-<img src="/art/tictactoe.jpeg"  width=800 height=450 />
+<img src="/art/tictactoe.jpeg"  />
 
 - Time Complexity:
     - Minimax Algorithm: The complexity of Minimax in this implementation is \(O(9!)\) in the worst case due to the exhaustive nature of the algorithm, but it is optimized with the depth consideration.
