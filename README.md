@@ -15,6 +15,9 @@ I did a [LinkedIn post](https://www.linkedin.com/posts/anandwana001_kotlin-andro
 1. [Tic-Tac-Toe](https://github.com/anandwana001/Kotlin-DSA-Projects/tree/main/src/ticTacToe)
 <img src="/art/tictactoe.jpeg"  />
 
+2. [Sudoku](https://github.com/anandwana001/Kotlin-DSA-Projects/tree/main/src/sudoku)
+<img src="/art/sudoku.webp"  />
+
 
 ... More Projects coming soon
 

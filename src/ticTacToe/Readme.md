@@ -88,7 +88,7 @@ This method contains the main game loop, using a Scanner for input handling. It 
  - getBestMove(): Determines the best move for the AI using the minimax algorithm. It iterates over possible moves, applying each temporarily, and uses the minimax function to evaluate the move's effectiveness.
  - minimax(depth: Int, isMaximizing: Boolean): A recursive function that evaluates the game board. It considers potential future moves and returns a score based on the likelihood of AI winning ('O'), losing ('X'), or tying. It uses a depth parameter to minimize the loss in worse scenarios and maximize gains in favorable ones. This function applies the typical minimax logic with optimization to prefer quicker wins or delayed losses.
 
-### Conclusion
+## Conclusion
 This Kotlin program demonstrates a basic but complete implementation of Tic Tac Toe with a minimax-based AI for decision-making. It efficiently manages game state, player interactions, and AI strategy within a well-structured object-oriented approach.
 
 ## License 📜
